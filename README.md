@@ -5,236 +5,211 @@
 Lista de builds viáveis para começar a liga 3.26. Atualizado em **10/06/2025**.
 
 ---
-*Desclaimer: Vamos pensar num aviso para o povo não ser burro* 
-*Mais o famoso texto do isso não é uma corrida* 
-
+*Disclaimer: Todos os guias aqui contém um link para o YouTube ou um Guia, então é necessário que você vá até lá e veja/leia os guias.
+*Lembrando a todos que jogar a liga não é uma corrida pra ver quem vai fazer as coisas primeiro, então jogue no seu tempo, independente da build que você escolher.*  
 ---
 
 ## 🔨 Melee Builds
 
-```md
-Volcanic Fissure of Snaking Berserker 
+### 🔥 Volcanic Fissure of Snaking Berserker
 
-Autor: 15 pessoas já fizeram sua versão e a lista está subindo
-Links:
-[Tuna](https://www.youtube.com/watch?v=YYtbD5vgxLQ)
-[PhazePlays](https://www.youtube.com/watch?v=khR0v6JMMJo)
+**Autor:** 15 pessoas já fizeram sua versão e a lista está subindo  
+**Links:**  
+- [Tuna](https://www.youtube.com/watch?v=YYtbD5vgxLQ)  
+- [PhazePlays](https://www.youtube.com/watch?v=khR0v6JMMJo)  
+**POB:** Procure na descrição dos vídeos pelo que mais te interessar  
+**Meta:** Sim, se possível, evite jogar com ela, mesmo que provavelmente seja a mais forte da liga  
+**Budget:** 💰💸💵💶💴💷💳🚀  
+**Dificuldade:** ?
 
-POB: Procure na descrição dos videos pelo que mais te interessar. 
-Meta: Sim, se possível, evite jogar com ela, mesmo que provaelmente seja a mais forte da liga.
-Budget: 💰💸💵💶💴💷💳🚀
-Dificuldade: ?
-```
-```md
-Shield Crush Champion
+### Shield Crush Champion
 
-Autor: EXILED CAT
-Links:https://www.youtube.com/watch?v=CygeJnFY_hQ
-POB: https://pobb.in/lWy3uPqYTMc_
-Meta: Com certeza, não.
-Budget: Dois reais ou um presente misterioso e tá indo.
-Dificuldade: O Quin69 joga com essa build.
-```
-```md
-Sunder Chieftain
+**Autor:** EXILED CAT  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=CygeJnFY_hQ)  
+**POB:** [PoB](https://pobb.in/lWy3uPqYTMc_)  
+**Meta:** Com certeza, não.  
+**Budget:** Dois reais ou um presente misterioso e tá indo.  
+**Dificuldade:** O Quin69 joga com essa build.  
 
-Autor: Jorgen
-Links:https://www.youtube.com/watch?v=rLB4FOg_6yg
-POB: https://pobb.in/tIvlylzdgNlN
-Meta: Não.
-Budget: Inicialmente barato
-Dificuldade: Bate e grita
-```
-```md
-Frost Blades Warden/Trickster/Champion 
+### Sunder Chieftain
 
-Autor: Zish
-Links:https://www.youtube.com/watch?v=T5Tyan9SgL8
-POB: Tem os três no video
-Meta: Não/talvez.
-Budget: Inicialmente barato
-Dificuldade: Bate e dá dash
-```
-```md
-FLICKER STRIKE 
+**Autor:** Jorgen  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=rLB4FOg_6yg)  
+**POB:** [PoB](https://pobb.in/tIvlylzdgNlN)  
+**Meta:** Não.  
+**Budget:** Inicialmente barato  
+**Dificuldade:** Bate e grita  
 
-Autor: Magefist
-Links:https://www.youtube.com/watch?v=UpFJTsT7BFI
-POB: https://pobb.in/04Cn1C39hWIC
-Meta: Não.
-Budget: Inicialmente barato
-Dificuldade: Dá dor de cabeça, as vezes.
-```
-> Presta atenção aqui que tem duas ascendências que vai rolar fazer, Slayer e Berserker.
-___
+### Frost Blades Warden/Trickster/Champion
+
+**Autor:** Zish  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=T5Tyan9SgL8)  
+**POB:** Tem os três no vídeo  
+**Meta:** Não/talvez.  
+**Budget:** Inicialmente barato  
+**Dificuldade:** Bate e dá dash  
+
+### Flicker Strike
+
+**Autor:** Magefist  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=UpFJTsT7BFI)  
+**POB:** [PoB](https://pobb.in/04Cn1C39hWIC)  
+**Meta:** Não.  
+**Budget:** Inicialmente barato  
+**Dificuldade:** Dá dor de cabeça, às vezes.  
+> Presta atenção aqui que tem duas ascendências que vai rolar fazer, Slayer e Berserker.  
+
+---
 
 ## 🏹 Bow Builds
-```md
-Lightning Arrow / Elemental Hit Deadeye 
 
-Autor: fubgun
-Links:https://www.youtube.com/watch?v=tDjODLiQ4pg
-POB: https://pobb.in/4WAIjsggAvbf
-Meta: Sim
-Budget: Olha o POB XDD
-Dificuldade: Atira flecha e corre
-```
-```md
-BAMA Necromancer
+### Lightning Arrow / Elemental Hit Deadeye
 
-Autor: ronarray / WafflezLovesArpgs 
-Links:
-[ronarray](https://www.youtube.com/watch?v=fv_ifkdhFLc)
-[WafflezLovesArpgs](https://www.youtube.com/watch?v=sF9V_XDh32A)
-Meta: Talvez
-Budget: Barato
-Dificuldade: Atira flecha e anda
-```
-```md
-Explosive Arrow Totem Elementalist
+**Autor:** fubgun  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=tDjODLiQ4pg)  
+**POB:** [PoB](https://pobb.in/4WAIjsggAvbf)  
+**Meta:** Sim  
+**Budget:** Olha o PoB XDD  
+**Dificuldade:** Atira flecha e corre  
 
-Autor: palsteron
-Links:https://www.youtube.com/watch?v=XI-xIOok_t8
-POB: https://pobb.in/Lm6cCaMEuECS
-Meta: Talvez
-Budget: Depende
-Dificuldade: Bota totem e anda
-```
-```md
-Power Siphon Ballista Totem Hierophant
+### BAMA Necromancer
 
-Autor: Lazy Exile
-Links:https://www.youtube.com/watch?v=lfHe0n_rdaA
-POB: https://pobb.in/aY1bG9FTQY54
-Meta: Não
-Budget: Barato
-Dificuldade: Bota totem e anda
-```
-```md
-Siege Ballista Totem Hierophant
+**Autor:** ronarray / WafflezLovesArpgs  
+**Links:**  
+- [ronarray](https://www.youtube.com/watch?v=fv_ifkdhFLc)  
+- [WafflezLovesArpgs](https://www.youtube.com/watch?v=sF9V_XDh32A)  
+**Meta:** Talvez  
+**Budget:** Barato  
+**Dificuldade:** Atira flecha e anda  
 
-Autor: POEGuy
-Links:https://www.youtube.com/watch?v=Kq6rkVOQVnE
-POB: https://pobb.in/wF5R9WdVeJf1
-Meta: Não
-Budget: Barato
-Dificuldade: Bota totem e anda
-```
+### Explosive Arrow Totem Elementalist
+
+**Autor:** palsteron  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=XI-xIOok_t8)  
+**POB:** [PoB](https://pobb.in/Lm6cCaMEuECS)  
+**Meta:** Talvez  
+**Budget:** Depende  
+**Dificuldade:** Bota totem e anda  
+
+### Power Siphon Ballista Totem Hierophant
+
+**Autor:** Lazy Exile  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=lfHe0n_rdaA)  
+**POB:** [PoB](https://pobb.in/aY1bG9FTQY54)  
+**Meta:** Não  
+**Budget:** Barato  
+**Dificuldade:** Bota totem e anda  
+
+### Siege Ballista Totem Hierophant
+
+**Autor:** POEGuy  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=Kq6rkVOQVnE)  
+**POB:** [PoB](https://pobb.in/wF5R9WdVeJf1)  
+**Meta:** Não  
+**Budget:** Barato  
+**Dificuldade:** Bota totem e anda  
 
 ---
 
 ## 🔮 Spellcaster Builds
 
-```md
-Vortex of Projection Archmage Golemancer Elementalist
+### Vortex of Projection Archmage Golemancer Elementalist
 
-Autor: Peuget2
-Links:https://www.youtube.com/watch?v=nNgpkjLhGvc
-POB: https://pobb.in/cG07zUq7C6Eg  
-Meta: Talvez
-Budget: Depende do talvez
-Dificuldade: Precisa saber ler
-```
-```md
-Glacial Cascade Elementalist
+**Autor:** Peuget2  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=nNgpkjLhGvc)  
+**POB:** [PoB](https://pobb.in/cG07zUq7C6Eg)  
+**Meta:** Talvez  
+**Budget:** Depende do talvez  
+**Dificuldade:** Precisa saber ler  
 
-Autor: aer0
-Links:https://www.youtube.com/watch?v=w0CpLZkKkaA
-POB: https://pobb.in/5UhPg0Tg7M9A
-Meta: Não
-Budget: Fica barata com o tempo, mas inicialmente a Cloak of Flame é cara.
-Dificuldade: Bem ok.
-```
+### Glacial Cascade Elementalist
 
-
+**Autor:** aer0  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=w0CpLZkKkaA)  
+**POB:** [PoB](https://pobb.in/5UhPg0Tg7M9A)  
+**Meta:** Não  
+**Budget:** Fica barata com o tempo, mas inicialmente a Cloak of Flame é cara.  
+**Dificuldade:** Bem ok  
 
 ---
 
 ## 💣 Mines Builds
 
-```md
-Exsanguinate / Reap Miner Trickster
+### Exsanguinate / Reap Miner Trickster
 
-Autor: aer0planeGaming 
-Links:https://www.youtube.com/watch?v=NHXZRZBThJ0
-POB: https://pobb.in/AL3xusOwfPQy   
-Meta: Provavelmente seja meta.
-Budget: Baixo/Médio.
-Dificuldade: Precisa pensar e vai ter alguns botões(4) pra apertar.
-```
+**Autor:** aer0planeGaming  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=NHXZRZBThJ0)  
+**POB:** [PoB](https://pobb.in/AL3xusOwfPQy)  
+**Meta:** Provavelmente seja meta  
+**Budget:** Baixo/Médio  
+**Dificuldade:** Precisa pensar e vai ter alguns botões (4) pra apertar  
+
 ---
 
 ## 🦄 Minion Builds
 
-```md
-Mage Skelly Necromancer
+### Mage Skelly Necromancer
 
-Autor: GhazzyTV 
-Links:https://www.youtube.com/watch?v=fdLpOeNKWhQ
-POB: https://www.poe-vault.com/guides/mage-skeleton-necromancer-build-guide
-Meta: Meta pra caralho.
-Budget: Vai pras cabeça.
-Dificuldade: Precisa saber ler.
-```
+**Autor:** GhazzyTV  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=fdLpOeNKWhQ)  
+**POB:** [Guia](https://www.poe-vault.com/guides/mage-skeleton-necromancer-build-guide)  
+**Meta:** Meta pra caralho  
+**Budget:** Vai pras cabeça  
+**Dificuldade:** Precisa saber ler  
+
 ---
 
-## 🔥  RF
+## 🔥 RF
 
-```md
-Righteous Fire Chieftain
+### Righteous Fire Chieftain
 
-Autor: pohx 
-Links:https://pohx.net/
-POB: https://pohx.net/
-Meta: É o Pohx
-Budget: É o Pohx
-Dificuldade: É o Pohx e anda
-```
+**Autor:** pohx  
+**Links:** [Site](https://pohx.net/)  
+**POB:** [PoB](https://pohx.net/)  
+**Meta:** É o Pohx  
+**Budget:** É o Pohx  
+**Dificuldade:** É o Pohx e anda  
+
 ---
 
 ## 🧠 Para fazer as builds abaixo, não pode ser burro.
 
-```md
-☃⛄ Icestorm Trickster ❄🌬
+### ☃⛄ Icestorm Trickster ❄🌬
 
-Autor: Kelvynn 
-Links:https://www.pathofexile.com/forum/view-thread/3294484
-POB: https://pobb.in/yBeCewrvPPjO
-Meta: Nunca foi e nem nunca será.
-Budget: Não é.
-Dificuldade: O Leveling de Icestorm é super de boas se você prestar atenção nas recomendações do guia.
-```
-```md
-The (Arch)Blade Blast Unloader
+**Autor:** Kelvynn  
+**Links:** [Fórum](https://www.pathofexile.com/forum/view-thread/3294484)  
+**POB:** [PoB](https://pobb.in/yBeCewrvPPjO)  
+**Meta:** Nunca foi e nem nunca será  
+**Budget:** Não é  
+**Dificuldade:** O Leveling de Icestorm é super de boas se você prestar atenção nas recomendações do guia  
 
-Autor: primaeva 
-Links:https://www.youtube.com/watch?v=pxUoBAL2eyQ
-https://www.pathofexile.com/forum/view-thread/3466787
-POB: https://pobb.in/pSxINapui1bI
-Meta: Não é meta.
-Budget: Dá pra startar de brand e ir pegando os itens.
-Dificuldade: Você tirou nota alta no enem?
-```
-```md
-Soulrend
+### The (Arch)Blade Blast Unloader
 
-Autor: The Final Wolf / TheBladezPurge 
-Links:https://www.pathofexile.com/forum/view-thread/3464356
-https://www.youtube.com/watch?v=TbYK2j3p2RY
-POB: Tá em algum lugar do post
-Meta: Não é meta.
-Budget: Leveling de DoT, faça se gostar.
-Dificuldade: Pouco dano, mas você vai castar skill e andar
-```
+**Autor:** primaeva  
+**Links:**  
+- [YouTube](https://www.youtube.com/watch?v=pxUoBAL2eyQ)  
+- [Fórum](https://www.pathofexile.com/forum/view-thread/3466787)  
+**POB:** [PoB](https://pobb.in/pSxINapui1bI)  
+**Meta:** Não é meta  
+**Budget:** Dá pra startar de brand e ir pegando os itens  
+**Dificuldade:** Você tirou nota alta no ENEM?  
 
+### Soulrend
 
+**Autor:** The Final Wolf / TheBladezPurge  
+**Links:**  
+- [Fórum](https://www.pathofexile.com/forum/view-thread/3464356)  
+- [YouTube](https://www.youtube.com/watch?v=TbYK2j3p2RY)  
+**POB:** Tá em algum lugar do post  
+**Meta:** Não é meta  
+**Budget:** Leveling de DoT, faça se gostar  
+**Dificuldade:** Pouco dano, mas você vai castar skill e andar  
 
 ---
 
 ## 🔄 Atualizações
-- 10-06-2025: Primeira versão da lista
 
-> 📝 **Nota:** Sempre verifique se o POB está atualizado para a versão 3.26 antes de seguir a build.
+- 10/06/2025: Primeira versão da lista  
 
-
+> 📝 **Nota:** Sempre verifique se o POB está atualizado para a versão 3.26 antes de seguir a build.  
 > 📝 **Nota 2:** Earthshatter, Ground Slam, BL of Orbiting Archmage, Zoomancer, SRS, Lacerate, EQ, SST e Poison Conc, estão muito fortes, eu só não fui atrás de build ainda para colocar aqui.
