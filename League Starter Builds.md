@@ -12,30 +12,62 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **{{DATA_ATUAL
 
 ## 🔨 Melee Builds
 
-### Volcanic Fissure of Snaking
+### Volcanic Fissure of Snaking Berserker 
 
 **Autor:** 15 pessoas já fizeram sua versão e a lista está subindo 
 **Links:** 
 [Tuna](https://www.youtube.com/watch?v=YYtbD5vgxLQ)
+[PhazePlays](https://www.youtube.com/watch?v=khR0v6JMMJo)
 
-**POB:** [Link do POB]   
-**Meta:** 
-**Budget:** 
-**Dificuldade:** 
+**POB:** Procure na descrição dos videos pelo que mais te interessar. 
+**Meta:** Sim, se possível, evite jogar com ela, mesmo que provaelmente seja a mais forte da liga.
+**Budget:** 💰💸💵💶💴💷💳🚀
+**Dificuldade:** ?
+
+### Shield Crush Champion
+
+**Autor:** EXILED CAT
+**Links:** https://www.youtube.com/watch?v=CygeJnFY_hQ
+**POB:** https://pobb.in/lWy3uPqYTMc_
+**Meta:** Com certeza, não.
+**Budget:** Dois reais ou um presente misterioso e tá indo.
+**Dificuldade:** O Quin69 joga com essa build.
+
+### Sunder Chieftain
+
+**Autor:** Jorgen
+**Links:** https://www.youtube.com/watch?v=rLB4FOg_6yg
+**POB:** https://pobb.in/tIvlylzdgNlN
+**Meta:** Não.
+**Budget:** Inicialmente barato
+**Dificuldade:** Bate e grita
+
 
 ___
 
 ## 🏹 Bow Builds
 
-### [Nome da Build]
+### BAMA Necromancer
 
-**Autor:** 15 pessoas já fizeram sua versão e a lista está subindo 
-**Links:** 
+**Autor:** ronarray
+**Links:** https://www.youtube.com/watch?v=fv_ifkdhFLc
+**POB:** https://pobb.in/PfoH4I6Q6zLs  
+**Meta:** Talvez
+**Budget:** Barato
+**Dificuldade:** Atira flecha e anda
 
-**POB:** [Link do POB]   
-**Meta:** 
-**Budget:** 
-**Dificuldade:** 
+### Explosive Arrow Totem Elementalist
+
+**Autor:** palsteron
+**Links:** https://www.youtube.com/watch?v=XI-xIOok_t8
+**POB:** https://pobb.in/Lm6cCaMEuECS
+**Meta:** Talvez
+**Budget:** Barato
+**Dificuldade:** Atira flecha e anda
+
+
+
+
 
 ---
 
@@ -43,9 +75,8 @@ ___
 
 ### [Nome da Build]
 
-**Autor:** 15 pessoas já fizeram sua versão e a lista está subindo 
+**Autor:** 
 **Links:** 
-
 **POB:** [Link do POB]   
 **Meta:** 
 **Budget:** 
@@ -63,6 +94,22 @@ ___
 **Meta:** Provavelmente seja meta.
 **Budget:** Baixo/Médio.
 **Dificuldade:** Precisa pensar e vai ter alguns botões(4) pra apertar.
+
+---
+
+## 🏹 RF
+
+### BAMA Necromancer
+
+**Autor:** ronarray / WafflezLovesArpgs 
+**Links:** 
+[ronarray](https://www.youtube.com/watch?v=fv_ifkdhFLc)
+[WafflezLovesArpgs](https://www.youtube.com/watch?v=sF9V_XDh32A)
+**POB:** https://pobb.in/PfoH4I6Q6zLs  
+**Meta:** Talvez
+**Budget:** Barato
+**Dificuldade:** Atira flecha e anda
+
 
 ---
 
