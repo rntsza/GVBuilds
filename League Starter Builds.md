@@ -199,7 +199,7 @@ https://www.pathofexile.com/forum/view-thread/3466787
 **Budget:** Dá pra startar de brand e ir pegando os itens.
 **Dificuldade:** Você tirou nota alta no enem?
 
-### The (Arch)Blade Blast Unloader
+### Soulrend
 
 **Autor:** The Final Wolf / TheBladezPurge 
 **Links:** https://www.pathofexile.com/forum/view-thread/3464356
