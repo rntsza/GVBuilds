@@ -42,16 +42,43 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **{{DATA_ATUAL
 **Budget:** Inicialmente barato
 **Dificuldade:** Bate e grita
 
+### Frost Blades Warden/Trickster/Champion 
+
+**Autor:** Zish
+**Links:** https://www.youtube.com/watch?v=T5Tyan9SgL8
+**POB:** Tem os três no video
+**Meta:** Não/talvez.
+**Budget:** Inicialmente barato
+**Dificuldade:** Bate e dá dash
+
+### FLICKER STRIKE 
+
+**Autor:** Magefist
+**Links:** https://www.youtube.com/watch?v=UpFJTsT7BFI
+**POB:** https://pobb.in/04Cn1C39hWIC
+**Meta:** Não.
+**Budget:** Inicialmente barato
+**Dificuldade:** Dá dor de cabeça, as vezes.
 
 ___
 
 ## 🏹 Bow Builds
 
+### Lightning Arrow / Elemental Hit Deadeye 
+
+**Autor:** fubgun
+**Links:** https://www.youtube.com/watch?v=tDjODLiQ4pg
+**POB:** https://pobb.in/4WAIjsggAvbf
+**Meta:** Sim
+**Budget:** Olha o POB XDD
+**Dificuldade:** Atira flecha e corre
+
 ### BAMA Necromancer
 
-**Autor:** ronarray
-**Links:** https://www.youtube.com/watch?v=fv_ifkdhFLc
-**POB:** https://pobb.in/PfoH4I6Q6zLs  
+**Autor:** ronarray / WafflezLovesArpgs 
+**Links:** 
+[ronarray](https://www.youtube.com/watch?v=fv_ifkdhFLc)
+[WafflezLovesArpgs](https://www.youtube.com/watch?v=sF9V_XDh32A)
 **Meta:** Talvez
 **Budget:** Barato
 **Dificuldade:** Atira flecha e anda
@@ -62,25 +89,53 @@ ___
 **Links:** https://www.youtube.com/watch?v=XI-xIOok_t8
 **POB:** https://pobb.in/Lm6cCaMEuECS
 **Meta:** Talvez
+**Budget:** Depende
+**Dificuldade:** Bota totem e anda
+
+### Power Siphon Ballista Totem Hierophant
+
+**Autor:** Lazy Exile
+**Links:** https://www.youtube.com/watch?v=lfHe0n_rdaA
+**POB:** https://pobb.in/aY1bG9FTQY54
+**Meta:** Não
 **Budget:** Barato
-**Dificuldade:** Atira flecha e anda
+**Dificuldade:** Bota totem e anda
 
+### Siege Ballista Totem Hierophant
 
-
+**Autor:** POEGuy
+**Links:** https://www.youtube.com/watch?v=Kq6rkVOQVnE
+**POB:** https://pobb.in/wF5R9WdVeJf1
+**Meta:** Não
+**Budget:** Barato
+**Dificuldade:** Bota totem e anda
 
 
 ---
 
 ## 🔮 Spellcaster Builds
 
-### [Nome da Build]
 
-**Autor:** 
-**Links:** 
-**POB:** [Link do POB]   
-**Meta:** 
-**Budget:** 
-**Dificuldade:** 
+### Vortex of Projection Archmage Golemancer Elementalist
+
+**Autor:** Peuget2
+**Links:** https://www.youtube.com/watch?v=nNgpkjLhGvc
+**POB:** https://pobb.in/cG07zUq7C6Eg  
+**Meta:** Talvez
+**Budget:** Depende do talvez
+**Dificuldade:** Precisa saber ler
+
+### Glacial Cascade Elementalist
+
+**Autor:** aer0
+**Links:** https://www.youtube.com/watch?v=w0CpLZkKkaA
+**POB:** https://pobb.in/5UhPg0Tg7M9A
+**Meta:** Não
+**Budget:** Fica barata com o tempo, mas inicialmente a Cloak of Flame é cara.
+**Dificuldade:** Bem ok.
+
+
+
 
 ---
 
@@ -97,18 +152,35 @@ ___
 
 ---
 
-## 🏹 RF
+## 🦄 Minion Builds
 
-### BAMA Necromancer
+### Mage Skelly Necromancer
 
-**Autor:** ronarray / WafflezLovesArpgs 
-**Links:** 
-[ronarray](https://www.youtube.com/watch?v=fv_ifkdhFLc)
-[WafflezLovesArpgs](https://www.youtube.com/watch?v=sF9V_XDh32A)
-**POB:** https://pobb.in/PfoH4I6Q6zLs  
-**Meta:** Talvez
-**Budget:** Barato
-**Dificuldade:** Atira flecha e anda
+**Autor:** GhazzyTV 
+**Links:** https://www.youtube.com/watch?v=fdLpOeNKWhQ
+**POB:** https://www.poe-vault.com/guides/mage-skeleton-necromancer-build-guide
+**Meta:** Meta pra caralho.
+**Budget:** Vai pras cabeça.
+**Dificuldade:** Precisa saber ler.
+
+---
+
+## 🔥  RF
+
+### Righteous Fire Chieftain
+
+**Autor:** pohx 
+**Links:** https://pohx.net/
+**POB:** https://pohx.net/
+**Meta:** É o Pohx
+**Budget:** É o Pohx
+**Dificuldade:** É o Pohx e anda
+
+---
+
+## 🧠 Para fazer as builds abaixo, não pode ser burro.
+
+
 
 
 ---
