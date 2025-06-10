@@ -21,6 +21,7 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **{{DATA_ATUAL
 **POB:** [Link do POB]   
 **Meta:** 
 **Budget:** 
+**Dificuldade:** 
 
 ___
 
@@ -34,6 +35,7 @@ ___
 **POB:** [Link do POB]   
 **Meta:** 
 **Budget:** 
+**Dificuldade:** 
 
 ---
 
@@ -47,9 +49,20 @@ ___
 **POB:** [Link do POB]   
 **Meta:** 
 **Budget:** 
+**Dificuldade:** 
 
 ---
 
+## 💣 Mines Builds
+
+### Exsanguinate / Reap Miner Trickster
+
+**Autor:** aer0planeGaming 
+**Links:** https://www.youtube.com/watch?v=NHXZRZBThJ0
+**POB:** https://pobb.in/AL3xusOwfPQy   
+**Meta:** Provavelmente seja meta.
+**Budget:** Baixo/Médio.
+**Dificuldade:** Precisa pensar e vai ter alguns botões(4) pra apertar.
 
 ---
 
