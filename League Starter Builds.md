@@ -59,7 +59,7 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **{{DATA_ATUAL
 **Meta:** Não.
 **Budget:** Inicialmente barato
 **Dificuldade:** Dá dor de cabeça, as vezes.
-
+> Presta atenção aqui que tem duas ascendências que vai rolar fazer, Slayer e Berserker.
 ___
 
 ## 🏹 Bow Builds
@@ -180,6 +180,35 @@ ___
 
 ## 🧠 Para fazer as builds abaixo, não pode ser burro.
 
+### ☃⛄ Icestorm Trickster ❄🌬
+
+**Autor:** Kelvynn 
+**Links:** https://www.pathofexile.com/forum/view-thread/3294484
+**POB:** https://pobb.in/yBeCewrvPPjO
+**Meta:** Nunca foi e nem nunca será.
+**Budget:** Não é.
+**Dificuldade:** O Leveling de Icestorm é super de boas se você prestar atenção nas recomendações do guia.
+
+### The (Arch)Blade Blast Unloader
+
+**Autor:** primaeva 
+**Links:** https://www.youtube.com/watch?v=pxUoBAL2eyQ
+https://www.pathofexile.com/forum/view-thread/3466787
+**POB:** https://pobb.in/pSxINapui1bI
+**Meta:** Não é meta.
+**Budget:** Dá pra startar de brand e ir pegando os itens.
+**Dificuldade:** Você tirou nota alta no enem?
+
+### The (Arch)Blade Blast Unloader
+
+**Autor:** The Final Wolf / TheBladezPurge 
+**Links:** https://www.pathofexile.com/forum/view-thread/3464356
+https://www.youtube.com/watch?v=TbYK2j3p2RY
+**POB:** Tá em algum lugar do post
+**Meta:** Não é meta.
+**Budget:** Leveling de DoT, faça se gostar.
+**Dificuldade:** Pouco dano, mas você vai castar skill e andar
+
 
 
 
@@ -189,3 +218,6 @@ ___
 - {{DATA}}: Primeira versão da lista
 
 > 📝 **Nota:** Sempre verifique se o POB está atualizado para a versão 3.26 antes de seguir a build.
+
+
+> 📝 **Nota 2:** Earthshatter, Ground Slam, BL of Orbiting Archmage, Zoomancer, SRS, Lacerate, EQ, SST e Poison Conc, estão muito fortes, eu só não fui atrás de build ainda para colocar aqui.
