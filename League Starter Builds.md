@@ -5,44 +5,51 @@
 Lista de builds viáveis para começar a liga 3.26. Atualizado em **{{DATA_ATUAL}}**.
 
 ---
+*Desclaimer: Vamos pensar num aviso para o povo não ser burro* 
+*Mais o famoso texto do isso não é uma corrida* 
+
+---
 
 ## 🔨 Melee Builds
 
 ### Volcanic Fissure of Snaking
-[![alt text](image.png)](https://www.youtube.com/watch?v=YYtbD5vgxLQ)  
+
 **Autor:** 15 pessoas já fizeram sua versão e a lista está subindo 
-**POB:** [Link do POB](URL_POB)  
-**Descrição:** Breve descrição (dificuldade, equipamentos chave, etc.)  
+**Links:** 
+[Tuna](https://www.youtube.com/watch?v=YYtbD5vgxLQ)
 
----
+**POB:** [Link do POB]   
+**Meta:** 
+**Budget:** 
 
-## 🏹 Ranged Builds
+___
+
+## 🏹 Bow Builds
 
 ### [Nome da Build]
-[![Nome da Build](URL_IMAGEM_OPCIONAL)](LINK_DA_BUILD)  
-**Autor:** Nome do criador  
-**POB:** [Link do POB](URL_POB)  
-**Descrição:** Breve descrição  
+
+**Autor:** 15 pessoas já fizeram sua versão e a lista está subindo 
+**Links:** 
+
+**POB:** [Link do POB]   
+**Meta:** 
+**Budget:** 
 
 ---
 
 ## 🔮 Spellcaster Builds
 
 ### [Nome da Build]
-[![Nome da Build](URL_IMAGEM_OPCIONAL)](LINK_DA_BUILD)  
-**Autor:** Nome do criador  
-**POB:** [Link do POB](URL_POB)  
-**Descrição:** Breve descrição  
+
+**Autor:** 15 pessoas já fizeram sua versão e a lista está subindo 
+**Links:** 
+
+**POB:** [Link do POB]   
+**Meta:** 
+**Budget:** 
 
 ---
 
-## 🛡️ Tank/Utility Builds
-
-### [Nome da Build]
-[![Nome da Build](URL_IMAGEM_OPCIONAL)](LINK_DA_BUILD)  
-**Autor:** Nome do criador  
-**POB:** [Link do POB](URL_POB)  
-**Descrição:** Breve descrição  
 
 ---
 
