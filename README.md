@@ -5,8 +5,10 @@
 Lista de builds viáveis para começar a liga 3.26. Atualizado em **10/06/2025**.
 
 ---
-*Disclaimer: Todos os guias aqui contém um link para o YouTube ou um Guia, então é necessário que você vá até lá e veja/leia os guias.
+*Disclaimer: Todos os guias aqui contém um link para o YouTube ou um Guia, então é necessário que você vá até lá e veja/leia os guias.*
+
 *Lembrando a todos que jogar a liga não é uma corrida pra ver quem vai fazer as coisas primeiro, então jogue no seu tempo, independente da build que você escolher.*  
+
 ---
 
 ## 🔨 Melee Builds
@@ -17,6 +19,7 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **10/06/2025**
 **Links:**  
 - [Tuna](https://www.youtube.com/watch?v=YYtbD5vgxLQ)  
 - [PhazePlays](https://www.youtube.com/watch?v=khR0v6JMMJo)  
+
 **POB:** Procure na descrição dos vídeos pelo que mais te interessar  
 **Meta:** Sim, se possível, evite jogar com ela, mesmo que provavelmente seja a mais forte da liga  
 **Budget:** 💰💸💵💶💴💷💳🚀  
@@ -78,6 +81,7 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **10/06/2025**
 **Links:**  
 - [ronarray](https://www.youtube.com/watch?v=fv_ifkdhFLc)  
 - [WafflezLovesArpgs](https://www.youtube.com/watch?v=sF9V_XDh32A)  
+
 **Meta:** Talvez  
 **Budget:** Barato  
 **Dificuldade:** Atira flecha e anda  
@@ -189,6 +193,7 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **10/06/2025**
 **Links:**  
 - [YouTube](https://www.youtube.com/watch?v=pxUoBAL2eyQ)  
 - [Fórum](https://www.pathofexile.com/forum/view-thread/3466787)  
+
 **POB:** [PoB](https://pobb.in/pSxINapui1bI)  
 **Meta:** Não é meta  
 **Budget:** Dá pra startar de brand e ir pegando os itens  
@@ -200,6 +205,7 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **10/06/2025**
 **Links:**  
 - [Fórum](https://www.pathofexile.com/forum/view-thread/3464356)  
 - [YouTube](https://www.youtube.com/watch?v=TbYK2j3p2RY)  
+
 **POB:** Tá em algum lugar do post  
 **Meta:** Não é meta  
 **Budget:** Leveling de DoT, faça se gostar  
@@ -212,4 +218,5 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **10/06/2025**
 - 10/06/2025: Primeira versão da lista  
 
 > 📝 **Nota:** Sempre verifique se o POB está atualizado para a versão 3.26 antes de seguir a build.  
+
 > 📝 **Nota 2:** Earthshatter, Ground Slam, BL of Orbiting Archmage, Zoomancer, SRS, Lacerate, EQ, SST e Poison Conc, estão muito fortes, eu só não fui atrás de build ainda para colocar aqui.
