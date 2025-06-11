@@ -161,6 +161,25 @@ Lista de builds viáveis para começar a liga 3.26. Atualizado em **10/06/2025**
 **Budget:** Vai pras cabeça  
 **Dificuldade:** Precisa saber ler  
 
+### Holy Relic Poison Necromancer
+
+**Autor:** BalorMage  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=y2iDKNEZaAE)  
+**POB:** [Guia](https://www.poe-vault.com/guides/holy-relic-necromancer-build-guide)  
+**Meta:** Não muito meta 
+**Budget:** Vai ficar caro depois, Dialla's, Ashes, Svalinn  
+**Dificuldade:** Fácil para médio  
+
+### SRS Guardian
+
+**Autor:** Thyworm  
+**Links:** [Vídeo](https://www.youtube.com/watch?v=Xi2ar7N5owo)  
+**POB:** [POB](https://pobb.in/59zKoF3piAU-)  
+**Meta:** Não é meta
+**Budget:** Barato 
+**Dificuldade:** Precisa saber ler  
+
+
 ---
 
 ## 🔥 RF
