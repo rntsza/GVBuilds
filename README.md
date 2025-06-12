@@ -68,14 +68,23 @@ _Lembrando a todos que jogar a liga não é uma corrida pra ver quem vai fazer a
 ### Smite Slayer
 
 **Autor:** Ronarray / Ruetoo  
-**Links:** [Smite Levelling Ronarray](https://www.youtube.com/watch?v=TaBbsBVqYq0&ab)  / [Smite Endgame Ruetoo](https://www.youtube.com/watch?v=hagk34394DA)  
-**POB:** [PoB Inicial](https://pobb.in/kr54cVAchVBC) / [PoB Endgame](https://pobb.in/_cZWL4BnAVjk)
+**Links:** 
+
+- [Smite Levelling Ronarray](https://www.youtube.com/watch?v=TaBbsBVqYq0&ab)
+- [Smite Endgame Ruetoo](https://www.youtube.com/watch?v=hagk34394DA)
+  
+**POB:**
+  
+- [PoB Inicial](https://pobb.in/kr54cVAchVBC)
+- [PoB Endgame](https://pobb.in/_cZWL4BnAVjk)
+
 **Meta:** Talvez.  
-**Budget:** Inicialmente barato e escala bem para o final do jogo. 
+**Budget:** Inicialmente barato e escala bem para o final do jogo.  
 **Dificuldade:** Bate e corre.
 
 > Nessa build você pode escolher fazer levelling de smite ou de explosive concoction.
----
+
+
 
 ---
 
